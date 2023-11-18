@@ -1,16 +1,16 @@
-### Hi there 👋
+#### welcome to my github 🌊
+i'm a **1️⃣7️⃣** **y/o**, from **hungary**. </br>
+i **mostly like** using, <img src="./typescript_16x16.svg"/> for **all of my projects**.
 
-<!--
-**halozat/halozat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**favorite song** right now is 👀
 
-Here are some ideas to get you started:
+[![Little One - The Happy Fits](./spotify.png)](https://open.spotify.com/track/5ctXRM2qn2f8abTzVAWA9U?si=b0a2586e5a3045e8)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 [**my twitter**](https://twitter.com/lathlaszlo)
+
+if **you'd like** to **support me**, </br>
+[🦜 **buy me a toucan**](https://www.buymeacoffee.com/halozat)
+
+**crypto addresses**: </br>
+0x71db04A5DE6310773585A62c83Fc301d4Cf5FFC1 </br>
+bc1qrhcddew79zvr5lnq074rhp652f9uhw5xfv8zdv
